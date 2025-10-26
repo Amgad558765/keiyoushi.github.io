@@ -1,4 +1,4 @@
----
+---https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
 # Copyright (c) The Tachiyomi Open Source Project
 # SPDX-License-Identifier: MPL-2.0
 title: Troubleshooting
